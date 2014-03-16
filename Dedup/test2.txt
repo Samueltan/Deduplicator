@@ -1,0 +1,5 @@
+test file name: test1.txt
+purpose: test the rabin fingerprint hash collision
+test case:
+1. if the same file content return the same fingerprint
+2. if the slightly changed files return different fingerprint
